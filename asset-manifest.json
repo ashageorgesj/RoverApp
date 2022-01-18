@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RoverApp/static/css/main.874c5748.css",
+    "main.js": "/RoverApp/static/js/main.92583d25.js",
+    "static/js/787.cca8c6b3.chunk.js": "/RoverApp/static/js/787.cca8c6b3.chunk.js",
+    "index.html": "/RoverApp/index.html",
+    "main.874c5748.css.map": "/RoverApp/static/css/main.874c5748.css.map",
+    "main.92583d25.js.map": "/RoverApp/static/js/main.92583d25.js.map",
+    "787.cca8c6b3.chunk.js.map": "/RoverApp/static/js/787.cca8c6b3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.874c5748.css",
+    "static/js/main.92583d25.js"
+  ]
+}
